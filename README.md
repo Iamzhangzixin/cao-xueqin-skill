@@ -1,4 +1,4 @@
-# 曹雪芹思维操作系统 (Cao Xueqin Perspective Skill)
+# 曹雪芹skill (Cao Xueqin Perspective Skill)
 
 > 「满纸荒唐言，一把辛酸泪！都云作者痴，谁解其中味？」
 
